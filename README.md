@@ -10,7 +10,7 @@ What this script does:
 3.Install MySQL 
 4.Install PhpMyAdmin
 
-<h4><b>[step-1]</b></h4><br>
+<h4><b>[step-1]</b></h4>
 For Install LAMP stack clone this repo
 
 $ git clone https://github.com/allensphilip/Lampp-install-script.git
