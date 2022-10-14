@@ -22,5 +22,10 @@ Give execute permission to lamp.sh file
 $ sudo chmod +x lamp.sh 
 
 <h4><b>[step-3]</b></h4>
+Finally, now run the lamp.sh file
+
+$ sudo ./lamp.sh 
+
+<h4><b>[step-4]</b></h4>
 
 After successfully script execute, Go to a browser and hit http://localhost/
