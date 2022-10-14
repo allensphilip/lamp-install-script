@@ -2,7 +2,7 @@
    
  #######################################  
  # Bash script to install an LAMP stack in ubuntu  
- # Author: Subhash (serverkaka.com)  
+ # Author: allensphilip
    
  # Check if running as root  
  if [ "$(id -u)" != "0" ]; then  
