@@ -22,7 +22,7 @@ Give execute permission to lamp.sh file
 $ sudo chmod +x lamp.sh 
 
 <h4><b>[step-3]</b></h4>
-Finally, now run the lamp.sh file
+Now run the lamp.sh file
 
 $ sudo ./lamp.sh 
 
