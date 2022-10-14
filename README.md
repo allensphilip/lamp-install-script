@@ -10,14 +10,14 @@ What this script does:
 3.Install MySQL 
 4.Install PhpMyAdmin
 
-<b>[step-1]</b>
+<h4><b>[step-1]</b></h4><br>
 For Install LAMP stack clone this repo
 
 $ git clone https://github.com/allensphilip/Lampp-install-script.git
 
-<b>[step-1]</b>
+<b>[step-2]</b>
 Give execute permission to lamp.sh file
 $ sudo chmod +x lamp.sh 
 
-<b>[step-1]</b>
+<b>[step-3]</b>
 After successfully script execute, Go to a browser and hit http://localhost/
