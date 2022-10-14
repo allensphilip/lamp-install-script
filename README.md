@@ -19,6 +19,7 @@ $ git clone https://github.com/allensphilip/Lampp-install-script.git
 <h4><b>[step-2]</b></h4>
 
 Give execute permission to lamp.sh file
+
 $ sudo chmod +x lamp.sh 
 
 <h4><b>[step-3]</b></h4>
