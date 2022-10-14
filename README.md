@@ -14,7 +14,7 @@ What this script does:
 
 For Install LAMP stack clone this repo
 
-$ git clone https://github.com/allensphilip/Lampp-install-script.git
+$ git clone https://github.com/allensphilip/lamp-install-script.git
 
 <h4><b>[step-2]</b></h4>
 
